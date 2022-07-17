@@ -1,0 +1,28 @@
+.cuadrado {
+
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+}
+.rectangulo{
+    background-color: red;
+    width: 50vw;
+    height: 200px;
+    
+}
+.rectangulohijo{
+    background-color: rgb(29, 230, 35, 0.1);
+    width: 75%;
+    height: 80%;
+}
+.rectanuglo2{
+    background-color: blueviolet;
+    width: 50%;
+    height: 200px;
+}
+.rectanuglo21{
+    background-color: rgba(190, 223, 26, 0.5);
+    width: 75vw;
+    height: 75vh;
+}
+
